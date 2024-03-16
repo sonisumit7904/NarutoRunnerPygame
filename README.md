@@ -10,3 +10,5 @@ Be sure to insatll Pygame first, it is a module to make 2d game in python.
 pip install pygame
 python main.py
 ``` 
+
+![image info](./Final.png)
